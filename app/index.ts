@@ -1,2 +1,3 @@
-const z: number = 0;
-console.log('work')
+export * from './ts/index';
+
+
